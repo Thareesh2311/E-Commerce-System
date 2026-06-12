@@ -9,7 +9,6 @@ Add to Cart
 Remove from Cart
 Payment Simulation
 Order Summary
-Admin Features
 Add Product
 Update Product
 Delete Product
